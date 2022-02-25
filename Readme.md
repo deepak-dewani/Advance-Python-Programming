@@ -3,4 +3,10 @@ This cousre include the concept and practice for the advance/intermediate learni
 
 # Topic that are covered:
 1. List
+2. Tuples
+3. Dictonaries
+4. Sets
+5. Strings
+6. Collections
+
 
