@@ -9,6 +9,6 @@ This cousre include the concept and practice for the advance/intermediate learni
 5. Strings
 6. Collections
 7. Itertools
-8. Lmabda Function
+8. Lambda Function
 
 
