@@ -8,5 +8,7 @@ This cousre include the concept and practice for the advance/intermediate learni
 4. Sets
 5. Strings
 6. Collections
+7. Itertools
+8. Lmabda Function
 
 
