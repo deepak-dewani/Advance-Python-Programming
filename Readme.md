@@ -10,5 +10,9 @@ This cousre include the concept and practice for the advance/intermediate learni
 6. Collections
 7. Itertools
 8. Lambda Function
+9. Exceptions and Errors
+10. Loggings
+11. Json
+12. Random Number
 
 
